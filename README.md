@@ -6,6 +6,7 @@ An analysis of the `movie_review` data set included in the `nltk` corpus.
 ***
 ## What is in this repo
 
+
 - [x] An implementation of `nltk.NaiveBayesClassifier` trained against **5000 movie reviews**. Implemented in `NLTK_Naive_Bayes.py`.
 - [x] Using `sklearn`
   - [x] **Naive Bayes**: 
@@ -44,6 +45,7 @@ Implemented in `Scikit_Learn_Classifiers.py`
 
 ## Requirements
 
+
 The simplest way(and the suggested way) would be to install the the required packages and the dependencies by using either [anaconda](https://www.continuum.io/downloads) or [miniconda](http://conda.pydata.org/miniconda.html)
 
 After that you can do
@@ -56,6 +58,7 @@ $ conda install scikit-learn nltk
 ***
 
 #### Downloading the dataset
+
 
 The dataset used in this package is bundled along with the `nltk` package.
 
